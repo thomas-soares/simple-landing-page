@@ -1,0 +1,22 @@
+/**
+TODO: mudar o nome do que ta aqui em baixo
+ * @section Base Styles
+ */
+
+ #section-2 {
+	
+	.left-container {
+		width: 60vw;
+	}
+
+	.right-container {
+		width: 30vw;
+
+		.container-img {
+			width: 300px;
+			height: 300px;
+			overflow: hidden;
+		}
+	}
+
+}
