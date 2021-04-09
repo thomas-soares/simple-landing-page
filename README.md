@@ -1,4 +1,4 @@
-# Gulp Boilerplate [![Build Status](https://travis-ci.org/cferdinandi/gulp-boilerplate.svg)](https://travis-ci.org/cferdinandi/gulp-boilerplate)
+# Simple Landing Page based on Gulp Boilerplate [![Build Status](https://travis-ci.org/cferdinandi/gulp-boilerplate.svg)](https://travis-ci.org/cferdinandi/gulp-boilerplate)
 
 A boilerplate for building web projects with [Gulp](https://gulpjs.com/). Uses Gulp 4.x.
 
